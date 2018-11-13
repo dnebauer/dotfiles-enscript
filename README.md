@@ -1,4 +1,3 @@
-vcsh-enscript
-=============
+# dotfiles-enscript
 
-Personal enscript configuration in a vcsh repository.
+Personal enscript configuration.
